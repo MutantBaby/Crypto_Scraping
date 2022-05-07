@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Crypto_Scraping/static/css/main.1a9a7a29.css",
+    "main.js": "/Crypto_Scraping/static/js/main.7f4ab026.js",
+    "static/media/background.jpg": "/Crypto_Scraping/static/media/background.ce1068475b408f290105.jpg",
+    "index.html": "/Crypto_Scraping/index.html",
+    "main.1a9a7a29.css.map": "/Crypto_Scraping/static/css/main.1a9a7a29.css.map",
+    "main.7f4ab026.js.map": "/Crypto_Scraping/static/js/main.7f4ab026.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.7f4ab026.js"
+  ]
+}
